@@ -13,8 +13,4 @@ const addtwo=function(num){
 ^
 
 ReferenceError: Cannot access 'addtwo' before initialization
-<<<<<<< HEAD
     */
-=======
-    */
->>>>>>> origin/main
