@@ -1,3 +1,3 @@
 # Javascript-simple-programs
-Providing some simple programs in javscript
-ex-factorial,fibonacci series etc.
+Some simple programs in javscript
+and also my prsonal javascript notes
