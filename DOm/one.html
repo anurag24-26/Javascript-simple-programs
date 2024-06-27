@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <style>
+        #title {
+            color: aqua;
+        }
+    </style>
+</head>
+<body bgcolor="black">
+    <div class="product-card">
+        <h1 onclick='change()' style="width: 500px; display: flex; align-items: center; justify-content: center;"  id="title">
+            <marquee  id="title2" behavior="" direction="">dont touch</marquee>
+        </h1>
+    </div>
+    <script>
+        function change() {
+    // Change the text of the h1 element
+    document.getElementById('title2').innerHTML = "@@##@$$@#";
+    document.getElementById('title2').style.backgroundColor = "lime";
+    document.getElementById('title2').style.borderRadius = "40px";
+    document.getElementById('title2').style.color = "black";
+}
+
+    </script>
+</body>
+</html>
